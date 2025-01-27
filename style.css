@@ -424,6 +424,9 @@
   .course-nume {
     font-size: 24px;
   }
+  .img-prod {
+    max-width: 50%;
+  }
 }
 .mob-btn {
   display: none;
